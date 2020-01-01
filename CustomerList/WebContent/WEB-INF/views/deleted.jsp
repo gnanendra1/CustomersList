@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-<a href="/CustomerList/">Get Back to Home</a>
-<h1 align="center" style="color:MediumSeaGreen">
-Customer Added Successfully...!!!
-</h1>
+<h1 align="center">${customer} Deleted Successfully...!!!</h1>
 </body>
 </html>
